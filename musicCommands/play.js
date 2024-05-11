@@ -15,7 +15,7 @@ const YouTubeSearch = require('youtube-search');
 const { EmbedBuilder } = require('discord.js');
 const { updateHistory } = require('./historyUtils');
 const config = require('../config.json');
-const youtubeAPIKey = config.youtubeAPIKey;
+const youtubeAPIKey = 'AIzaSyCQlbTIIQgVlkB4aKgULumFOgPIscQPECc';
 const { ActionRowBuilder, ButtonBuilder, ButtonStyle } = require('discord.js');
 const { InteractionCollector } = require('discord.js');
 
